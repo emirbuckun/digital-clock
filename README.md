@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/63044078/225857296-5e5225ab-1fe0-4667-82cf-3a19dd1993dc.png)
 
-## [See Website](https://emirbuckun.com)
+## [See Website](https://emirbuckun.github.io/digital-clock/)
 
 ##  Run 
 
